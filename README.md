@@ -20,7 +20,9 @@ To install the necessary dependencies for the application, please write 'npm i' 
 
 Please refer to the following video on how to use the application:
 
-<a href = "#"> Click here to watch the video</a>
+<a href = "https://drive.google.com/file/d/1cQCxZEwO0ofSy58YoTGR3fXUiTF_aayZ/view?usp=drive_link"> Click here to watch the video</a>
+<a href = "https://drive.google.com/file/d/1K2-DGxDLPWNqj0x5whOQJ6K7qdN-413-/view?usp=drive_link"> Click here to see how to run the test</a>
+
 
 
 ## License
